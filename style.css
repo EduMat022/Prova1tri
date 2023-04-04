@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(161, 161, 161);
+}
+
+.cabecalho {
+    background-color: brown;
+}
+
+.titulo {
+    color: white;
+    font-family: 'Alkatra', cursive;
+}
+
+.descricao {
+    color: white;
+    font-family: 'Alkatra', cursive;
+}
